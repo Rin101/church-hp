@@ -138,3 +138,7 @@ footer {
   margin: 10vh auto 0 auto;
   height: 10vh;
 }
+
+footer p {
+  float: right;
+}
