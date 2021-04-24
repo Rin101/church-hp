@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/church-hp/static/css/main.a02be901.chunk.css",
+    "main.css": "/church-hp/static/css/main.dc9ef857.chunk.css",
     "main.js": "/church-hp/static/js/main.78b0c7be.chunk.js",
     "main.js.map": "/church-hp/static/js/main.78b0c7be.chunk.js.map",
     "runtime-main.js": "/church-hp/static/js/runtime-main.e3b7ed4b.js",
@@ -8,14 +8,14 @@
     "static/js/2.58abbb14.chunk.js": "/church-hp/static/js/2.58abbb14.chunk.js",
     "static/js/2.58abbb14.chunk.js.map": "/church-hp/static/js/2.58abbb14.chunk.js.map",
     "index.html": "/church-hp/index.html",
-    "static/css/main.a02be901.chunk.css.map": "/church-hp/static/css/main.a02be901.chunk.css.map",
+    "static/css/main.dc9ef857.chunk.css.map": "/church-hp/static/css/main.dc9ef857.chunk.css.map",
     "static/js/2.58abbb14.chunk.js.LICENSE.txt": "/church-hp/static/js/2.58abbb14.chunk.js.LICENSE.txt",
     "static/media/index.css": "/church-hp/static/media/church.28220a67.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e3b7ed4b.js",
     "static/js/2.58abbb14.chunk.js",
-    "static/css/main.a02be901.chunk.css",
+    "static/css/main.dc9ef857.chunk.css",
     "static/js/main.78b0c7be.chunk.js"
   ]
 }
