@@ -9,14 +9,14 @@ function Container() {
   return (
     <div className="container">
       <header>
-        <h1>大泉ベテル協会</h1>
+        <h1>大泉ベテル教会</h1>
         <div className="header-line"></div>
         <nav>
           <ul>
             <li><a href="/">ホーム</a></li>
             <li><a href="/">集会案内</a></li>
             <li><a href="/">アクセス</a></li>
-            <li><a href="/">協会の沿革</a></li>
+            <li><a href="/">教会の沿革</a></li>
           </ul>
         </nav>
       </header>
