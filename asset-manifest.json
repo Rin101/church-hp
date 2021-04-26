@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/church-hp/static/css/main.3c9c7e63.chunk.css",
-    "main.js": "/church-hp/static/js/main.78b0c7be.chunk.js",
-    "main.js.map": "/church-hp/static/js/main.78b0c7be.chunk.js.map",
+    "main.js": "/church-hp/static/js/main.cdfb50ff.chunk.js",
+    "main.js.map": "/church-hp/static/js/main.cdfb50ff.chunk.js.map",
     "runtime-main.js": "/church-hp/static/js/runtime-main.e3b7ed4b.js",
     "runtime-main.js.map": "/church-hp/static/js/runtime-main.e3b7ed4b.js.map",
     "static/js/2.58abbb14.chunk.js": "/church-hp/static/js/2.58abbb14.chunk.js",
@@ -16,6 +16,6 @@
     "static/js/runtime-main.e3b7ed4b.js",
     "static/js/2.58abbb14.chunk.js",
     "static/css/main.3c9c7e63.chunk.css",
-    "static/js/main.78b0c7be.chunk.js"
+    "static/js/main.cdfb50ff.chunk.js"
   ]
 }
